@@ -1,0 +1,14 @@
+{
+  "name": "string-function",
+  "version": "1.0.0",
+  "description": "string functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "ujjwal",
+  "license": "MIT"
+}
